@@ -1,4 +1,4 @@
 # hello-world
-Just aother repository
-test repoistory
+Just xxxaother eeepository
+test repo
 asdf
